@@ -9,10 +9,10 @@
 
 此笔记持续更新中......
 
-#####第一课 Neural Networks and Deep Learning  
+##### 第一课 Neural Networks and Deep Learning  
 
 此课程内容和NG的ML有较多重合，也比较简单，故暂时笔记不涉及此课。（以后有时间会加上）
 
-#####第二课 Improving Deep Neural Networks:Hyperparameter tuning, Regularization and Optimization  
+##### 第二课 Improving Deep Neural Networks:Hyperparameter tuning, Regularization and Optimization  
 
 本笔记从此课程开始更新
