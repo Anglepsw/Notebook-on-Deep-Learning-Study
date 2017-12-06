@@ -1,4 +1,4 @@
-## Week6 笔记
+# Week6 笔记
 本周课程的内容都是围绕优化方法展开的，即各种对梯度下降方法的改良，以寻求更好的优化效果。
 - Mini-Batch梯度下降（Gradient descent）
 - 带动量（momentum）的梯度下降
@@ -19,8 +19,12 @@
 
 <img src="https://github.com/Anglepsw/Notebook-on-Deep-Learning-Study/raw/week6_temp/images/06-01-搜索路径.PNG " style="width:200px;height:200px;">
 <caption><center> <u>Figure 1</u>: 三种梯度下降搜索路径(引自DL课程PPT)</center></caption>
-<img src="./images/06-02-代价函数下降.png" style="width:700px;height:250px;">
+<img src="https://github.com/Anglepsw/Notebook-on-Deep-Learning-Study/raw/week6_temp/images/06-02-代价函数下降.PNG" style="width:700px;height:250px;">
 <caption><center> <u>Figure 2</u>: 代价函数下降(引自DL课程PPT)</center></caption>
 
 ##### Mini-Batch size的选择
 ##### Mini-Batch算法实现
+
+##### 带动量（momentum）的梯度下降
+&emsp;&emsp;在理解带动量的梯度下降之前，需要先理解指数权重平均或者滑动平均，用公式表示就是
+$$v=\beta v+(1-\beta)v$$
