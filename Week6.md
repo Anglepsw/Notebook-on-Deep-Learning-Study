@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Week6 笔记
 本周课程的内容都是围绕优化方法展开的，即各种对梯度下降方法的改良，以寻求更好的优化效果。
 - Mini-Batch梯度下降（Gradient descent）
