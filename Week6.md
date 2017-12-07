@@ -29,3 +29,4 @@
 ##### 带动量（momentum）的梯度下降
 &emsp;&emsp;在理解带动量的梯度下降之前，需要先理解指数权重平均或者滑动平均，用公式表示就是
 $$v=\beta v+(1-\beta)v$$
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= v=\beta v+(1-\beta)v" style="border:none;">
